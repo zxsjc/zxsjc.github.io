@@ -441,7 +441,7 @@ ul.skill li .progress div {
     width: 14%;
     height: 40px;
     line-height: 40px;
-    margin: 10px 1.2%;
+    margin: 5px 1%;
     padding: 5px 0;
     text-align: center;
     float: left;
@@ -488,12 +488,12 @@ ul.skill li .progress div {
 
 .find .links .col-3 .item {
     width: 14%;
-    margin: 10px 1.2%
+    margin: 5px 1%
 }
 
 .gate .links .item {
-    margin: 5px 0;
-    padding: 15px 1.5%;
+    margin: 3px 0;
+    padding: 5px 1.2%;
     float: left;
     width: 14%;
     height: 30px;
