@@ -495,8 +495,8 @@ ul.skill li .progress div {
     margin: 5px 0;
     padding: 15px 1.5%;
     float: left;
-    width: 22%;
-    height: 60px;
+    width: 12%;
+    height: 30px;
     transition: all .2s;
     opacity: .85
 }
@@ -516,8 +516,8 @@ ul.skill li .progress div {
 
 .gate .links .item .avatar {
     float: left;
-    height: 60px;
-    line-height: 60px;
+    height: 30px;
+    line-height: 30px;
     width: 60px;
     border-radius: 100%;
     text-align: center;
